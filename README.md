@@ -1,5 +1,5 @@
 # tents-and-trees-puzzle-solver
-a solver to the puzzle in the following link written in Scheme language: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/tents.html
+a solver to the puzzle in the following link written in Scheme language with pure functional programming approach: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/tents.html
 
 Place tents in the empty squares in such a way that:
 1. No two tents are adjacent, even diagonally.
